@@ -4,18 +4,19 @@ PENDAHULUAN
 1.1	Latar Belakang
 Pada saat ini video streaming banyak diterapkan pada dunia Internet. Tetapi untuk pengadaan video streaming di Internet tidak mudah. Selain membutuhkan biaya space, domain, dll, dibutuhkan pula jaringan Internet yang mempunyai bandwidth yang besar pula. Melihat permasalahan diatas, jadi ada beberapa hal yang perlu dipertimbangkan dalam pembuatan program, antara lain kemudahan pemasangan, penggunaan, dan kompatibilitas terhadap sistem operasi yang digunakan
 DILo (Digital Innovation Lounge) Bandung adalah sebuah creative camp yang dikembangkan oleh MIKTI yang bekerja sama dengan telkom, sebagai pusat interaksi peminat dan pelaku industri kreatif digital di kota Bandung yang bertujuan menciptakan bibit-bibit Digital Preneur yang selanjutnya siap masuk ke industri (Creative Center). Didalam Creative Camp, komunitas kreatif digital akan diberikan pemahaman mengenai arah yang sebaiknya dilalui untuk masuk ke industri kreatif digital, termasuk arah sektor industri yang potensial untuk dijalani. DILo sendiri berencana membuat studio bioskop sendiri yang menayangkan film – film yang khusus ada di bioskop dengan melalui media streaming. Untuk mendapatkan film – film tersebut DILo bekerja sama dengan para produser pembuat film untuk mengupload film tersebut ke cloud server berbasis web yang telah disediakan oleh DILo itu sendiri. Tetapi sebelumnya, user yang ada di DILo harus membeli film tersebut agar film – film itu dapat di tayangkan secara streaming di bioskop DILo itu sendiri dengan media streaming menggunakan device android. Dikarenakan human resource di PT DILo Bandung sedikit, dan juga pada proses pembuatannya sangat memprioritaskan pekerja dan client, dikarenakan akan selalu terjadi perubahan. 
-Metodologi yang tepat untuk menangani masalah diatas adalah Metodologi Scrum. Scrum merupakan sebuah kerangka kerja untuk mengembangkan sebuah produk yang kompleks, di mana visi dari Scrum adalah produk yang bernilai tinggi secara kreativitas maupun produktivitas. Scrum juga mendukung akan ukuran tim yang kecil dan juga dapat menerima berbagai perubahan yang mungkin akan muncul pada proses pengembangan aplikasi.
+Dalam hal ini penulis akan melakukan analisa sistem inidie home cinema ini menggunakan penelitian metodologi kualitatif. Metodologi kualitatif menekankan pada aspek pemahaman secara mendalam terhadap suatu masalah dari pada melihat permasalahan untuk penelitian generalisasi. Metode penelitian ini lebih menggunakan teknik analisis mendalam ( in-depth analysis), yaitu mengkaji masalah secara kasus perkasus karena metodologi kualitatif yakin bahwa sifat suatu masalah satu akan berbeda dengan sifat dari masalah lainnya. Penelitian ini dilaksanakan latar alamiah atau tidak dibuat-buat yaitu tempat dimana kejadian dan perilaku manusia berlangsung.
+Setelah mengumpulkan data-data dalam penelitian. Peneliti melakukan pengembangan sistem yang akan dibangun dengan metode scrum. Metode Scrum merupakan sebuah kerangka kerja untuk mengembangkan sebuah produk yang kompleks, di mana visi dari Scrum adalah produk yang bernilai tinggi secara kreativitas maupun produktivitas. Scrum juga mendukung akan ukuran tim yang kecil dan juga dapat menerima berbagai perubahan yang mungkin akan muncul pada proses pengembangan aplikasi.
 
 1.2	Identifikasi Masalah
 Identifikasi masalah yang timbul pada aplikasi indie home cinema adalah sebagai berikut :
-1.	Metode SCRUM dibutuhkan untuk menyelesaikan aplikasi ini.
+1.	PT DILo Bandung ingin membuat Sistem Indie Home Cinema yaitu aplikasi streaming film bioskop di android.
 2.	Belum tersedia blue print dari android untuk membeli film dan streaming film di android.
 
 1.3	Tujuan dan Manfaat
 Tujuan
 Adapun tujuan dari pembuatan aplikasi indie home cinema adalah sebagai berikut:
-1.	Menggunakan metode SCRUM dapat mempermudah menampilkan seluruh aktivitas aplikasi.
-2.	Menentukan dan merancang blue print android untuk menampung film yang telah dibeli oleh user dan user bias streaming film tersebut.
+1.	Merancang Sistem Indie Home Cinema dengan menganalisa semua kebutuhan yang diperlukan oleh sistem.
+2.	Menentukan dan merancang blue print android untuk menampung film yang telah dibeli oleh user dan user bisa streaming film tersebut.
 
 Manfaat
 Manfaat yang dapat diperoleh dari pembuatan aplikasi indie home cinema ini yaitu :
@@ -24,8 +25,6 @@ Bagi peneliti :
 2	Mengetahui kondisi sebenarnya yang terjadi di dunia kerja.
 3	Sebagai pengalaman kerja peneliti.
 4	Menambah wawasan peneliti tentang penerapan media streaming di android device.
-
-
 Bagi perusahaan : 
 1	Penelitian ini dapat dijadikan sebagai referensi dalam perancangan sistem di perusahaan.
 2	Memudahkan dalam memperluas proses bisnis dari aplikasi ini. 
@@ -50,6 +49,8 @@ Jadi, kesimpulan dari kedua penelitian tersebut disimpulkan bahwa metodologi SCR
 Sistematika penulisan laporan pembuatan Analisis dan Perancangan Aplikasi Android Indie Home Cinema Dengan Menggunakan Metode SCRUM (Studi Kasus : PT DILo Bandung) ini sebagai berikut :
 BAB I 	PENDAHULUAN
 Pembahasannya meliputi latar belakang, identifikasi masalah, tujuan, ruang lingkup, penelitian sebelumnya, sistematika penulisan. Pada bagian ini akan membantu pembaca dalam menganalisa latar belakang dan mengindentifikasi masalah dari sistem dan tujuan dari dibuatnya Analisis dan Perancangan Aplikasi Android Indie Home Cinema Dengan Menggunakan Metode SCRUM (Studi Kasus : PT DILo Bandung)
+
+
 BAB II	LANDASAN TEORI
 Pembahasannya meliputi uraian dan sumber tentang penjelasan mengenai Analisis dan Perancangan Aplikasi Android Indie Home Cinema Dengan Menggunakan Metode SCRUM (Studi Kasus : PT DILo Bandung) yang akan dibuat dari sistem tersebut dan membantu proses berjalannya sistem.
 BAB III	ANALISIS ORGANISASI PERUSAHAAN
